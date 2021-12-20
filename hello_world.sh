@@ -4,8 +4,9 @@ separator=''
 arg=$1
 
 for ((i=0;i<${#arg};++i)) do
-separator+='='
+    separator+='='
 done
+
 echo $separator
 echo $arg
 echo $separator
