@@ -1,3 +1,3 @@
 # Bash course
 
-https://platforma.strefakursow.pl/platforma/kurs/363
+source: https://platforma.strefakursow.pl/platforma/kurs/363
